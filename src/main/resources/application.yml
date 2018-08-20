@@ -1,0 +1,5 @@
+#properties common to all environments
+oauth:
+  jwt:
+    key-store-name: fbm-private-key
+    key-store-pass: 'fbmp@ss!'
